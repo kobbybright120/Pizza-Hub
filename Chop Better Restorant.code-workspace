@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Kobby files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kobby files"
+	}
+}
